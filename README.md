@@ -7,7 +7,10 @@
 
 
   + Java OOP [certificate](https://softuni.bg/users/profile/certificates?username=V.Krasimirova)
+  
   + Java Advanced [certificate](https://softuni.bg/users/profile/certificates?username=V.Krasimirova)
+  
+  + Java Fundamentals [certificate](https://softuni.bg/users/profile/certificates?username=V.Krasimirova)
 
   + Programming Basics (Java) [certificate](https://softuni.bg/users/profile/certificates?username=V.Krasimirova)
 
