@@ -1,8 +1,10 @@
-### Hi there 👋, my name is Victoria
+### Hi there , my name is Victoria 👋
 ![I am GitHub Readme Generator's creator](https://img.freepik.com/vecteurs-premium/fille-heureuse-ecoute-musique-ecouteurs-ordinateur-portable-chat-endormi_138676-150.jpg?w=740)
 
 - 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Java <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java" />
+  </a>
 
 
 
