@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Java <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
-  + HTML & CSS January 2024[[certificate](https://softuni.bg/users/profile/certificates?username=V.Krasimirova)
+  + HTML & CSS January 2024[certificate](https://softuni.bg/users/profile/certificates?username=V.Krasimirova)
   
   + MySQL May 2023 [certificate](https://softuni.bg/users/profile/certificates?username=V.Krasimirova)
   
